@@ -57,7 +57,7 @@ def main() -> int:
         return 2
     print(f'Target: {args.target} ({target})')
     print(f'Ports: {len(args.ports)} | Timeout: {args.timeout}s | Workers: {args.workers}')
-    print('Only scan systems you own or have explicit permission to test.\\n')
+    print('Only scan systems you own or have explicit permission to test.\n')
     opened = []
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = [pool.submit(scan_port, target, port, args.timeout) for port in args.ports]
@@ -75,7 +75,7 @@ def main() -> int:
             print(f'{port:5}/tcp  open  {service}')
     else:
         print('No open TCP ports found in the selected port list.')
-    print(f'\\nCompleted. {len(opened)} open port(s) found.')
+    print(f'\nCompleted. {len(opened)} open port(s) found.')
     return 0
 
 if __name__ == '__main__':
