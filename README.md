@@ -77,7 +77,15 @@ I'm passionate about understanding how networks, operating systems, and applicat
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2000&pause=600&color=DB2777&center=true&vCenter=true&width=850&lines=%5B+PROJECTS+%5D+LEARN+BY+BUILDING;%5B+LAB+MODE+%5D+CAPTURE.+ANALYZE.+DEFEND.;%5B+NEXT+LEVEL+%5D+TURN+NOTES+INTO+TOOLS." alt="Animated project section title" />
 </div>
 
-> **Project roadmap:** The cards below describe lab projects I plan to build and document. They are not presented as completed projects; links will be added when each repository is published.
+### 🚀 Published Project Files
+
+These projects are now available in this repository. The Python scanner and Linux audit script have been tested; the Packet Tracer project is a configuration blueprint that still needs to be built and validated in Packet Tracer.
+
+- [Python Network Scanner](projects/python-network-scanner/) — Python TCP connect scanner with unit tests.
+- [Linux Security Audit Tool](projects/linux-security-audit/) — read-only Bash baseline audit.
+- [Cisco Packet Tracer Enterprise Lab](projects/packet-tracer-enterprise-lab/) — topology plan and router/switch CLI configs; no `.pkt` simulation file yet.
+
+> **Project roadmap:** The cards below describe additional lab projects I plan to build and document. They are not presented as completed projects.
 
 <table>
 <tr>
