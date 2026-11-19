@@ -1,23 +1,22 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,40:111C44,75:5425A8,100:00E5FF&text=NITHAS%20AHAMADH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20%26%20CYBER%20SECURITY%20ENGINEER&descSize=15&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,35:0B1635,70:4C1D95,100:00E5FF&text=NITHAS%20AHAMADH&fontSize=52&fontColor=FFFFFF&fontAlignY=37&desc=NETWORK%20%26%20CYBER%20SECURITY&descSize=17&descAlignY=58&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+Cybersecurity+Profile...;%3E+Network+Security+%7C+Ethical+Hacking;%3E+Linux+%7C+Python+%7C+Digital+Defense;%3E+Think.+Code.+Secure.;%3E+Building+Skills+One+Lab+At+A+Time." alt="Animated terminal introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=650&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+BOOTING+NITHAS+CYBER+PROFILE...;%3E+NETWORK+SECURITY+%7C+ETHICAL+HACKING;%3E+LINUX+%7C+PYTHON+%7C+DIGITAL+DEFENSE;%3E+THINK+LIKE+AN+ATTACKER.+DEFEND+LIKE+A+PRO.;%3E+ACCESS+GRANTED%3A+LEARNING+MODE." alt="Animated cyber terminal" />
 
 <br/>
 
-<a href="https://github.com/nithasinfosec">
-<img src="https://img.shields.io/badge/GitHub-nithasinfosec-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
-</a>
-<a href="https://linkedin.com/in/nithas-ahamadh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.nithasahamadh.com/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
+<a href="https://nithasahamadh.netlify.app/"><img src="https://img.shields.io/badge/⚡_ENTER_MY_PORTFOLIO-00E5FF?style=for-the-badge&logo=netlify&logoColor=06111C&labelColor=06111C" alt="Portfolio website" /></a>
+<a href="https://wa.me/94751128323"><img src="https://img.shields.io/badge/WHATSAPP-CHAT_NOW-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:ahamadhnithasakhaan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=nithasinfosec&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" />
+<br/><br/>
+
+<a href="https://github.com/nithasinfosec"><img src="https://img.shields.io/badge/GitHub-nithasinfosec-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/nithas-ahamadh"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="tel:+94751128323"><img src="https://img.shields.io/badge/PHONE-0751128323-7C3AED?style=for-the-badge&logo=phone&logoColor=white" alt="Call phone" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=nithasinfosec&style=for-the-badge&color=00E5FF&label=PROFILE+VISITORS" alt="Profile visitors" />
 
 </div>
 
@@ -26,67 +25,62 @@
 ## `root@nithas:~$ whoami`
 
 ```text
-Name        : Ahamadh Nithas
-Domain      : Network & Cyber Security
-Interests   : Ethical Hacking | Network Defense | Linux
-Languages   : Python | Bash | SQL (learning & practice)
-Environment : Linux | Docker | Virtual Machines
-Mission     : Learn continuously. Build practically. Secure responsibly.
+NAME        : Ahamadh Nithas
+FOCUS       : Network & Cyber Security
+INTERESTS   : Ethical Hacking | Network Defense | Linux
+DEVELOPMENT : Python | Bash | Web Technologies
+ENVIRONMENT : Linux | Docker | Virtual Machines
+MISSION     : Learn continuously. Build practically. Secure responsibly.
+STATUS      : Always learning. Always improving.
 ```
 
-I'm passionate about understanding how systems and networks work, identifying security weaknesses, and learning how to defend digital infrastructure.
+I’m passionate about networking, cybersecurity, Linux, and building practical technical skills. My goal is to understand how systems work, identify weaknesses responsibly, and help make digital environments safer.
 
 - 🎓 Studying BSc (Hons) Network & Cyber Security
-- 🌐 Practising networking, routing, switching, and troubleshooting
-- 🐧 Exploring Linux administration and system hardening
-- 🔍 Learning vulnerability assessment and security testing
-- 🐍 Developing programming and security automation skills
-- 🧪 Building practical projects in controlled lab environments
+- 🌐 Practising routing, switching, network troubleshooting, and packet analysis
+- 🐧 Exploring Linux administration, hardening, and virtualization
+- 🛡️ Learning ethical security testing and defensive security
+- 🐍 Building programming and automation skills
+- 🧪 Practising in controlled labs and on systems I’m authorized to test
 
 ---
 
-## ⚡ Technical Arsenal
+## ⚡ TECHNICAL ARSENAL
 
 <div align="center">
 
 ### 🌐 Networking & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=cisco,linux,bash,docker,git" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git" alt="Networking and infrastructure tools" />
 
-<br/>
+<img src="https://img.shields.io/badge/NETWORKING-Routing%20%26%20Switching-087EA4?style=flat-square" />
+<img src="https://img.shields.io/badge/TRAFFIC-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/LABS-Packet%20Tracer-0078D4?style=flat-square" />
 
-<img src="https://img.shields.io/badge/Networking-Routing%20%26%20Switching-087EA4?style=flat-square" />
-<img src="https://img.shields.io/badge/Analysis-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Labs-Packet%20Tracer-0078D4?style=flat-square" />
+### 🛡️ Cybersecurity & Defense
 
-### 🛡️ Cybersecurity
+<img src="https://skillicons.dev/icons?i=python,linux,bash,docker" alt="Cybersecurity tools" />
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Recon-Nmap-214478?style=flat-square" />
-<img src="https://img.shields.io/badge/Web%20Security-Burp%20Suite-FF6633?style=flat-square" />
-<img src="https://img.shields.io/badge/Security-OWASP-000000?style=flat-square&logo=owasp" />
-<img src="https://img.shields.io/badge/Practice-CTF%20Labs-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/RECON-Nmap-214478?style=flat-square" />
+<img src="https://img.shields.io/badge/WEB%20SECURITY-Burp%20Suite-FF6633?style=flat-square" />
+<img src="https://img.shields.io/badge/STANDARDS-OWASP-000000?style=flat-square&logo=owasp" />
+<img src="https://img.shields.io/badge/PRACTICE-Authorized%20Labs-7C3AED?style=flat-square" />
 
 ### 💻 Development & Platforms
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,docker" />
-
-<br/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,docker" alt="Development platforms" />
 
 <img src="https://img.shields.io/badge/OS-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Virtualization-VMware-607078?style=flat-square" />
+<img src="https://img.shields.io/badge/VM-VMware-607078?style=flat-square" />
 
 </div>
 
 ---
 
-## 🚀 Project Lab
+## 🚀 PROJECT LAB
 
-> Practical work matters more than a long list of tools. These are project ideas and lab areas to document as they are completed.
+> These are learning areas and planned lab projects. Individual project links will be added as the work is published.
 
 <table>
 <tr>
@@ -94,16 +88,16 @@ I'm passionate about understanding how systems and networks work, identifying se
 
 ### 🔎 Network Recon Lab
 
-Document authorized network discovery, Nmap scans, service identification, and findings.
+Practise authorized host discovery, service enumeration, and clear reporting.
 
-**Focus:** Networking · Reconnaissance
+**Focus:** Nmap · Networking
 
 </td>
 <td width="50%">
 
 ### 📡 Packet Analysis
 
-Study PCAP files and investigate DNS, TCP handshakes, HTTP traffic, and suspicious patterns.
+Explore DNS, TCP handshakes, protocol behavior, and suspicious traffic in PCAP files.
 
 **Focus:** Wireshark · Traffic Analysis
 
@@ -114,7 +108,7 @@ Study PCAP files and investigate DNS, TCP handshakes, HTTP traffic, and suspicio
 
 ### 🐧 Linux Hardening
 
-Practise permissions, SSH security, firewall rules, updates, and service configuration.
+Practise secure permissions, SSH configuration, firewall rules, and service management.
 
 **Focus:** Linux · System Defense
 
@@ -123,9 +117,9 @@ Practise permissions, SSH security, firewall rules, updates, and service configu
 
 ### 🛡️ Vulnerability Assessment
 
-Build a lab-based workflow to scan, validate, document, and remediate vulnerabilities.
+Learn to validate findings, assess risk, document evidence, and recommend remediation.
 
-**Focus:** Risk · Remediation
+**Focus:** Security Testing · Remediation
 
 </td>
 </tr>
@@ -134,7 +128,7 @@ Build a lab-based workflow to scan, validate, document, and remediate vulnerabil
 
 ### 🐍 Python Security Utilities
 
-Develop small tools for log parsing, IP validation, security reporting, and automation.
+Build small scripts for log parsing, IP validation, and security-related automation.
 
 **Focus:** Python · Automation
 
@@ -143,9 +137,9 @@ Develop small tools for log parsing, IP validation, security reporting, and auto
 
 ### 🧪 Home Cyber Range
 
-Create an isolated virtual lab for networking, defensive monitoring, and ethical security practice.
+Build an isolated virtual lab for networking and defensive security exercises.
 
-**Focus:** Virtual Machines · Blue Team
+**Focus:** Virtualization · Blue Team
 
 </td>
 </tr>
@@ -153,38 +147,38 @@ Create an isolated virtual lab for networking, defensive monitoring, and ethical
 
 ---
 
-## 📊 GitHub Command Center
+## 📊 GITHUB COMMAND CENTER
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithasinfosec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=E6EDF3" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithasinfosec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=E6EDF3" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithasinfosec&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6EDF3" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=nithasinfosec&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithasinfosec&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6EDF3" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nithasinfosec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img width="90%" src="https://streak-stats.demolab.com?user=nithasinfosec&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithasinfosec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## 🎯 Current Objectives
+## 🎯 CURRENT OBJECTIVES
 
 - [ ] Strengthen CCNA-level networking fundamentals
-- [ ] Practise Linux administration and hardening
-- [ ] Build Python utilities and publish source code
-- [ ] Document packet analysis and vulnerability assessment labs
-- [ ] Create an organized cybersecurity home lab
-- [ ] Publish technical write-ups and learning notes
+- [ ] Improve Linux administration and hardening skills
+- [ ] Build and publish Python utilities
+- [ ] Document network analysis and security lab findings
+- [ ] Develop an organized cybersecurity home lab
+- [ ] Share technical notes and practical project write-ups
 
 ---
 
-## 🧠 My Security Philosophy
+## 🧠 SECURITY PHILOSOPHY
 
 ```bash
 #!/usr/bin/env bash
@@ -195,29 +189,30 @@ echo "[+] Document the findings"
 echo "[+] Fix, verify, and improve"
 ```
 
-I believe good cybersecurity is not just about finding weaknesses — it is about understanding risk, protecting people, and making systems more resilient.
+I believe cybersecurity is not just about finding weaknesses. It is about understanding risk, protecting people, and helping systems become more resilient.
 
 ---
 
-## 🤝 Connect With Me
+## ☎️ CONTACT & CONNECT
 
 <div align="center">
 
-<a href="https://github.com/nithasinfosec">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://linkedin.com/in/nithas-ahamadh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.nithasahamadh.com/">
-<img src="https://img.shields.io/badge/Website-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<a href="https://nithasahamadh.netlify.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-nithasahamadh.netlify.app-00E5FF?style=for-the-badge&labelColor=050816" alt="Visit portfolio" /></a>
+
+<a href="https://wa.me/94751128323"><img src="https://img.shields.io/badge/WhatsApp-0751128323-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message on WhatsApp" /></a>
+
+<a href="tel:+94751128323"><img src="https://img.shields.io/badge/Call-0751128323-7C3AED?style=for-the-badge&logo=phone&logoColor=white" alt="Call Nithas" /></a>
+
+<a href="mailto:ahamadhnithasakhaan@gmail.com"><img src="https://img.shields.io/badge/Email-ahamadhnithasakhaan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nithas" /></a>
+
+<a href="https://github.com/nithasinfosec"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<a href="https://linkedin.com/in/nithas-ahamadh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
 
 <br/><br/>
 
 ### `ACCESS GRANTED — TO LEARNING, NOT UNAUTHORIZED SYSTEMS.`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,45:5425A8,100:050816" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00E5FF,45:5425A8,100:050816" alt="Animated cyber footer" />
 
 </div>
 
