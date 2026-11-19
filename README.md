@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFFFFF,18:E0F2FE,38:BAE6FD,58:C4B5FD,78:FBCFE8,100:FFFFFF&text=NITHAS%20AHAMADH&fontSize=58&fontColor=111827&fontAlignY=36&desc=NETWORK%20%26%20CYBER%20SECURITY%20ENGINEER%20IN%20THE%20MAKING&descSize=15&descColor=334155&descAlignY=57&animation=twinkling" alt="Animated gradient header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,18:0F172A,38:172554,58:4C1D95,78:0891B2,100:020617&text=NITHAS%20AHAMADH&fontSize=58&fontColor=00F5FF&fontAlignY=36&desc=NETWORK%20%26%20CYBER%20SECURITY%20ENGINEER%20IN%20THE%20MAKING&descSize=15&descColor=E2E8F0&descAlignY=57&animation=twinkling" alt="Animated gradient header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1800&pause=450&color=7C3AED&center=true&vCenter=true&width=950&lines=%E2%9C%A6+WELCOME+TO+MY+CYBER+SPACE;%E2%9C%A6+NETWORKS+%7C+LINUX+%7C+CYBER+DEFENSE;%E2%9C%A6+ETHICAL+HACKING+%7C+PYTHON+AUTOMATION;%E2%9C%A6+BUILD.+BREAK.+LEARN.+SECURE.;%E2%9C%A6+ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Animated typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1800&pause=450&color=00F5FF&center=true&vCenter=true&width=950&lines=%E2%9C%A6+WELCOME+TO+MY+CYBER+SPACE;%E2%9C%A6+NETWORKS+%7C+LINUX+%7C+CYBER+DEFENSE;%E2%9C%A6+ETHICAL+HACKING+%7C+PYTHON+AUTOMATION;%E2%9C%A6+BUILD.+BREAK.+LEARN.+SECURE.;%E2%9C%A6+ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Animated typing headline" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=700&color=0891B2&center=true&vCenter=true&width=850&lines=%24+whoami+%3D%3E+Nithas+Ahamadh;%24+mission+%3D%3E+Learn+security+by+building+real+labs;%24+mode+%3D%3E+Curious+mind.+Responsible+hands." alt="Animated terminal lines" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=%24+whoami+%3D%3E+Nithas+Ahamadh;%24+mission+%3D%3E+Learn+security+by+building+real+labs;%24+mode+%3D%3E+Curious+mind.+Responsible+hands." alt="Animated terminal lines" />
 
 <br/>
 
-<a href="https://nithasahamadh.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0891B2?style=for-the-badge&labelColor=FFFFFF" alt="Portfolio" /></a>
+<a href="https://nithasahamadh.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0891B2?style=for-the-badge&labelColor=020617" alt="Portfolio" /></a>
 <a href="https://github.com/nithasinfosec"><img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/nithas-ahamadh"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://wa.me/94751128323"><img src="https://img.shields.io/badge/WHATSAPP-Message%20Me-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -164,14 +164,14 @@ Connect isolated virtual machines for networking and blue-team practice.
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithasinfosec&bg_color=ffffff&color=334155&line=7c3aed&point=0891b2&area=true&hide_border=true&custom_title=NITHAS%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithasinfosec&bg_color=020617&color=E2E8F0&line=00F5FF&point=BC13FE&area=true&hide_border=true&custom_title=NITHAS%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=nithasinfosec&show_icons=true&rank_icon=github&hide_border=true&bg_color=ffffff&title_color=7c3aed&icon_color=0891b2&text_color=334155" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithasinfosec&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=334155" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=nithasinfosec&show_icons=true&rank_icon=github&hide_border=true&bg_color=020617&title_color=00F5FF&icon_color=BC13FE&text_color=E2E8F0" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithasinfosec&layout=compact&hide_border=true&bg_color=020617&title_color=00F5FF&text_color=E2E8F0" alt="Most used languages" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=nithasinfosec&theme=default&hide_border=true&background=ffffff&ring=7c3aed&fire=db2777&currStreakLabel=0891b2" alt="GitHub streak statistics" />
+<img width="90%" src="https://streak-stats.demolab.com?user=nithasinfosec&theme=tokyonight&hide_border=true&background=020617&ring=00F5FF&fire=BC13FE&currStreakLabel=00F5FF" alt="GitHub streak statistics" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=nithasinfosec&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=nithasinfosec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
 
 </div>
 
@@ -223,7 +223,7 @@ printf '[+] Remediate, verify, repeat\n'
 <a href="https://linkedin.com/in/nithas-ahamadh"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 
 <br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FFFFFF,25:BAE6FD,50:C4B5FD,75:FBCFE8,100:FFFFFF&animation=twinkling" alt="Animated gradient footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,25:172554,50:4C1D95,75:0891B2,100:020617&animation=twinkling" alt="Animated gradient footer" />
 
 **ACCESS GRANTED: TO LEARNING, BUILDING, AND DEFENDING.**
 
