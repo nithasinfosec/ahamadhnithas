@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # Read-only baseline audit for a Linux host. Does not change system settings.
 set -u
-pass() { printf '[PASS] %s\\n' "$1"; }
-warn() { printf '[WARN] %s\\n' "$1"; }
-info() { printf '[INFO] %s\\n' "$1"; }
+pass() { printf '[PASS] %s\n' "$1"; }
+warn() { printf '[WARN] %s\n' "$1"; }
+info() { printf '[INFO] %s\n' "$1"; }
 
-printf 'Linux Security Baseline Audit\\n==============================\\n'
-printf 'Host: %s\\nDate: %s\\n\\n' "$(hostname 2>/dev/null || echo unknown)" "$(date -Is 2>/dev/null || date)"
+printf 'Linux Security Baseline Audit\n==============================\n'
+printf 'Host: %s\nDate: %s\n\n' "$(hostname 2>/dev/null || echo unknown)" "$(date -Is 2>/dev/null || date)"
 if command -v uname >/dev/null 2>&1; then info "Kernel: $(uname -sr)"; fi
 if [ "$(id -u)" -eq 0 ]; then info 'Running as root; report may include more detail.'; else info 'Running without root; some checks may be limited.'; fi
 
@@ -34,4 +34,4 @@ else
   info 'systemctl unavailable; service checks skipped.'
 fi
 if [ -r /etc/os-release ]; then . /etc/os-release; info "Distribution: ${PRETTY_NAME:-unknown}"; fi
-printf '\\nAudit finished. WARN means review manually, not necessarily a confirmed vulnerability.\\n'
+printf '\nAudit finished. WARN means review manually, not necessarily a confirmed vulnerability.\n'
